@@ -3047,6 +3047,10 @@ Physically violent and frightening.
 
 **Example:** Two men were shot during fierce fighting last weekend.(fierce fighting)
 
+## Beneath
 
+In or to a lower position than someone or something, under someone or something.
+
+**Example:** After weeks at sea, it was wonderful to feel firm ground beneath our feet once more.
 
 
