@@ -3053,4 +3053,12 @@ In or to a lower position than someone or something, under someone or something.
 
 **Example:** After weeks at sea, it was wonderful to feel firm ground beneath our feet once more.
 
+## Context
+
+The situation within which something exists or happens, and that can help explain it.
+
+**Example:** It is important to see all the fighting and bloodshed in his plays in historical context.
+
+
+
 
