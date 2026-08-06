@@ -4,7 +4,9 @@
 
 ## Abundant
 
-Present in large quantities. **Example:** Living close to a lake means we have an abundant supply of water.
+Present in large quantities. 
+
+**Example:** Living close to a lake means we have an abundant supply of water.
 
 ## Accumulate
 
@@ -242,11 +244,23 @@ Need, not to have.
 
 ## Linger
 
-Stay, wait.
+To take a long time to leave or disappear.
+
+**Example:** After the play had finished, we lingered for a while in the bar hoping to catch sight of the actors.
+
+**Example:** The smell from the fire still lingered days later.
 
 ## Peril
 
 Danger, hazard, risk. / Great danger, or something that is very dangerous.
+
+**Example:** I never felt that my life was in peril.
+
+## Fraught
+
+Full of unpleasant things such as problems or dangers. / Causing or having extreme worry or anxiety.
+
+**Example:** This is one of the most fraught weekends of the year for the security forces.
 
 ## Hazard
 
@@ -262,7 +276,9 @@ Something you are born with; natural, not learned.
 
 ## Notorious(adj)
 
-Famous for something bad. **Example:** The area is notorious for its heavy traffic. (It is well known for bad traffic.)
+Famous for something bad. 
+
+**Example:** The area is notorious for its heavy traffic. (It is well known for bad traffic.)
 
 ## Plausible
 
@@ -338,43 +354,57 @@ To like or enjoy something.
 
 Legally responsible for something, or likely to experience something. 
 
-**Example:** He is liable for the damage to the car.(He is responsible for the damage.) / You are liable to get wet if you go out without an umbrella.(You are likely to get wet.)
+**Example:** He is liable for the damage to the car.(He is responsible for the damage.) 
+
+**Example:** You are liable to get wet if you go out without an umbrella.(You are likely to get wet.)
 
 ## Stray
 
 To wander away from a place or person, or something that is lost or not where it should be. 
 
-**Example:** He strayed off the path and got lost in the forest. (He wandered away from the path.) / The dog looks like it is a stray.(The dog is lost or has no home.)
+**Example:** He strayed off the path and got lost in the forest. (He wandered away from the path.) 
+
+**Example:** The dog looks like it is a stray.(The dog is lost or has no home.)
 
 ## Vivid(adj)
 
 Very clear, bright, or detailed — often used for colors, memories, or descriptions. 
 
-**Example:** She wore a vivid red dress.(The red was very bright and clear.) / I have a vivid memory of my first day at school.(The memory is very clear in my mind.)
+**Example:** She wore a vivid red dress.(The red was very bright and clear.) 
+
+**Example:** I have a vivid memory of my first day at school.(The memory is very clear in my mind.)
 
 ## Vanish
 
 To disappear suddenly and completely. 
 
-**Example:** The magician made the rabbit vanish.(The rabbit disappeared suddenly.) / The sun vanished behind the clouds.(It disappeared from sight.)
+**Example:** The magician made the rabbit vanish.(The rabbit disappeared suddenly.) 
+
+**Example:** The sun vanished behind the clouds.(It disappeared from sight.)
 
 ## Upheaval
 
 A big and sudden change that causes trouble or confusion. 
 
-**Example:** The war caused great upheaval in the country.(It brought a lot of change and disorder.) / Moving to a new city was a major upheaval for the family.(It was a big and stressful change.)
+**Example:** The war caused great upheaval in the country.(It brought a lot of change and disorder.) 
+
+**Example:** Moving to a new city was a major upheaval for the family.(It was a big and stressful change.)
 
 ## Trivial
 
 Having little value or importance. 
 
-**Example:** I don't know why he gets so upset about something so trivial. / They argued over a trivial matter.(It was a small, unimportant issue.)
+**Example:** I don't know why he gets so upset about something so trivial. 
+
+**Example:** They argued over a trivial matter.(It was a small, unimportant issue.)
 
 ## Ruthless
 
 Not thinking or worrying about any pain caused to others; cruel. 
 
-**Example:** A ruthless dictator. / Some people believe that to succeed in this world you have to be ruthless.
+**Example:** A ruthless dictator. 
+
+**Example:** Some people believe that to succeed in this world you have to be ruthless.
 
 ## Lethargic
 
@@ -392,7 +422,9 @@ To limit the ability of someone to do something, or to limit the development of 
 
 A sudden and strong expression of anger, or an explosion. 
 
-**Example:** They had a blow-up during the meeting.(They suddenly got very angry.) / There was a blow-up at the factory.(There was a big explosion.)
+**Example:** They had a blow-up during the meeting.(They suddenly got very angry.) 
+
+**Example:** There was a blow-up at the factory.(There was a big explosion.)
 
 ## Serendipity
 
