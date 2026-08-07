@@ -100,6 +100,8 @@ To make something dirty or harmful, especially the air, water, or land, by addin
 
 A person who travels regularly between home and work or school, usually by public transportation or car.
 
+**Example:** The train was packed with commuters.
+
 ## Outskirts
 
 The areas on the edge of a city or town, away from the center.
@@ -135,6 +137,8 @@ A person whose job is to supply and connect or repair water pipes, baths, toilet
 ## Accountant
 
 A person who keeps financial records, prepares reports, and helps manage money for individuals or businesses.
+
+----
 
 ## Fairly
 
@@ -206,6 +210,8 @@ Wanting to know or learn more about something.
 
 An important part, quality, or characteristic of something.
 
+----
+
 ## Monument
 
 A building, statue, or structure made to honor a person or event. 
@@ -225,6 +231,8 @@ Showing courage and not being afraid in difficult or dangerous situations.
 ## Inherit
 
 To receive something from someone after they pass away, usually property or money.
+
+**Example:** Who will inherit the house when he dies?
 
 ## Distinguish
 
@@ -246,6 +254,8 @@ Quick to understand or learn; showing intelligence or creativity.
 
 An event or situation that can be observed, especially one that is unusual or difficult to explain.
 
+**Example:** Gravity is a natural phenomenon.(naturel phenomenon)
+
 ## Observed
 
 Noticed or seen something, usually with attention or careful thought.
@@ -262,9 +272,19 @@ The feeling of being tired or uninterested because something is not exciting or 
 
 Relating to mental processes such as thinking, learning, memory, and understanding.
 
+**Example:** Some of her cognitive functions have been impaired.(cognitive function)
+
+## Impair
+
+To spoil something or make it weaker so that it is less effective.
+
+**Example:** A recurring knee injury may have impaired his chances of winning the tournament.
+
 ## Manufacture
 
 To make something in large quantities.
+
+----
 
 ## Invest(v)
 
@@ -335,6 +355,8 @@ To stay away from something or someone.
 ## Marks
 
 A score or grade given for schoolwork or exams.
+
+----
 
 ## Revise
 
@@ -407,6 +429,8 @@ To place something on a surface or to stop holding it.
 To delay or postpone something to a later time. 
 
 **Example:** He decided to put off his meeting until tomorrow.
+
+----
 
 ## Postpone
 
@@ -497,6 +521,7 @@ The land along the edge of a sea, lake, or river.
 ## Straight
 
 Moving in one direction without bending or curving. 
+
 **Example:** He drew a straight line on the paper with a ruler.
 
 ## Tax
@@ -554,6 +579,8 @@ To make fun of someone in a playful or unkind way.
 To get or accept something that is given or sent. 
 
 **Example:** She receives a letter from her friend every week.
+
+----
 
 ## Welfare
 
@@ -775,6 +802,8 @@ Opposing or not agreeing with something or someone.
 
 To try to win against others in a game, race, or contest.
 
+----
+
 ## Competitive(adj)
 
 Wanting to be better than others or to win in a situation. 
@@ -971,7 +1000,9 @@ A person's job or profession.
 
 To remove something by cutting or to stop something suddenly. 
 
-**Example:** He cut the rope off with a knife. / The phone call was cut off during the conversation.
+**Example:** He cut the rope off with a knife. 
+
+**Example:** The phone call was cut off during the conversation.
 
 ## Grow apart
 
@@ -987,6 +1018,7 @@ To be similar to an older member of your family in appearance or character.
 
 ---
 
+
 # Track 3
 
 ## Do sb a favour
@@ -994,6 +1026,8 @@ To be similar to an older member of your family in appearance or character.
 To help someone by doing something for them. 
 
 **Example:** Can you do me a favour and carry this bag?(Can you help me by carrying the bag?)
+
+---
 
 ## Patience(n)
 
@@ -1015,7 +1049,8 @@ A person receiving medical care.
 
 Giving a lot of light or very intelligent. 
 
-**Example:** The sun is very bright today. / She is a bright student.
+**Example:** The sun is very bright today. 
+**Example:** She is a bright student.
 
 ## Reserved
 
@@ -1057,7 +1092,8 @@ A soft, light part of a bird’s body.
 
 The thick, soft hair of animals. 
 
-**Example:** The cat has soft fur. / Some jackets are made of fur.
+**Example:** The cat has soft fur. 
+**Example:** Some jackets are made of fur.
 
 ## Petal
 
@@ -1075,19 +1111,25 @@ The small, hard pieces that cover the skin of some animals, like fish or reptile
 
 A small, flowing body of water or a continuous flow of something. 
 
-**Example:** A stream flows through the forest.(A small river in the forest.) / She watched a stream of birds flying in the sky.(A continuous movement of birds.)
+**Example:** A stream flows through the forest.(A small river in the forest.) 
+
+**Example:** She watched a stream of birds flying in the sky.(A continuous movement of birds.)
 
 ## Bay
 
 A large, curved area of water next to land, or a room or area for a specific purpose. 
 
-**Example:** The boat sailed into the bay. / She parked her car in the garage bay.
+**Example:** The boat sailed into the bay. 
+
+**Example:** She parked her car in the garage bay.
 
 ## Coast
 
 The land next to or close to the sea, or to move without using power, usually by gravity. 
 
-**Example:** They walked along the coast. / The car coasted down the hill.
+**Example:** They walked along the coast. 
+
+**Example:** The car coasted down the hill.
 
 ## Land
 
@@ -1107,7 +1149,9 @@ To make something bigger or wider.
 
 ## Satisfy
 
-To make someone happy by meeting their needs or expectations. **Example:** The meal satisfied my hunger.(It made me feel full.)
+To make someone happy by meeting their needs or expectations. 
+
+**Example:** The meal satisfied my hunger.(It made me feel full.)
 
 ## Instead of
 
@@ -1335,7 +1379,9 @@ To move or make something cover a larger area.
 
 One part of a situation, problem, subject, etc. 
 
-**Example:** His illness affects almost every aspect of his life. / Which aspects of the job do you most enjoy?
+**Example:** His illness affects almost every aspect of his life. 
+
+**Example:** Which aspects of the job do you most enjoy?
 
 ## At least
 
@@ -1360,6 +1406,8 @@ Enough for a particular purpose.
 Something that is sad, unlucky, or not favorable. 
 
 **Example:** She has inherited her father's large nose, which is very unfortunate.
+
+---
 
 ## Fortunate
 
@@ -1478,14 +1526,17 @@ To mix something by moving it around, often in a circular motion.
 To explode, start making noise, or stop working.
 
 **Example:** The alarm will go off at 7 AM." (The alarm will start making noise.)
+
 **Example:** The bomb went off in the middle of the street." (The bomb exploded.)
-**Example:** The lights went off during the storm." (The lights stopped working.
+
+**Example:** The lights went off during the storm." (The lights stopped working.)
 
 ## Go with sth
 
 To match or look good together, or to choose something.
 
 **Example:** This shirt goes with your jeans. (The shirt looks good with the jeans.)
+
 **Example:** I think, I’ll go with the chicken for dinner. (I will choose the chicken.
 
 ## Circular(adj)
@@ -1496,7 +1547,9 @@ Shaped like a circle.
 
 To have faith or trust in something or someone. 
 
-**Example:** I believe in hard work and dedication.(I trust that hard work brings success.) / She believes in magic and fairy tales.(She thinks magic is real.)
+**Example:** I believe in hard work and dedication.(I trust that hard work brings success.) 
+
+**Example:** She believes in magic and fairy tales.(She thinks magic is real.)
 
 ## Faith
 
@@ -1608,7 +1661,9 @@ To begin at a specific time, place, or level.
 
 To raise, build, or display something. 
 
-**Example:** They put up a new building in the city. (They built it.) / She put up a poster on the wall. (She attached it to the wall.)
+**Example:** They put up a new building in the city. (They built it.) 
+
+**Example:** She put up a poster on the wall. (She attached it to the wall.)
 
 ## Attached
 
@@ -1620,7 +1675,9 @@ Connected to something or having a strong emotional connection.
 
 To say that something is true or to allow someone to enter. 
 
-**Example:** He admitted that he made a mistake. (He said it was true.) / They admitted her to the hospital.(They allowed her to enter.)
+**Example:** He admitted that he made a mistake. (He said it was true.) 
+
+**Example:** They admitted her to the hospital.(They allowed her to enter.)
 
 ## Advise sb to do sth
 
@@ -1638,7 +1695,9 @@ To say or act like you will harm someone or something.
 
 Generally or in most cases. 
 
-**Example:** On the whole, the trip was a success. (In general, it was good.) / On the whole, he is a kind person. (Mostly, he is kind.)
+**Example:** On the whole, the trip was a success. (In general, it was good.) 
+
+**Example:** On the whole, he is a kind person. (Mostly, he is kind.)
 
 ## News feed
 
@@ -1800,6 +1859,7 @@ Usually do something or behave in a certain way.
 
 # Track 4
 
+---
 ## Boot
 
 A covered space at the back of a car, for storing things in. 
@@ -1858,31 +1918,41 @@ Bad or stormy weather with strong wind, rain, or waves.
 
 To be ready for something that might happen. 
 
-**Example:** Take an umbrella in case it rains. / Bring extra money in case you need it.
+**Example:** Take an umbrella in case it rains. 
+
+**Example:** Bring extra money in case you need it.
 
 ## Provided
 
 Only if; on the condition that. 
 
-**Example:** You can go out, provided you finish your homework. / I’ll help you, provided you ask politely.
+**Example:** You can go out, provided you finish your homework. 
+
+**Example:** I’ll help you, provided you ask politely.
 
 ## As long as
 
 Only if; on the condition that. 
 
-**Example:** You can play outside as long as you stay in the garden. / I’ll go to the party as long as you come with me.
+**Example:** You can play outside as long as you stay in the garden. 
+
+**Example:** I’ll go to the party as long as you come with me.
 
 ## As soon as
 
 Immediately when something happens. 
 
-**Example:** Call me as soon as you get home. / She left as soon as the class ended.
+**Example:** Call me as soon as you get home. 
+
+**Example:** She left as soon as the class ended.
 
 ## Establish
 
 To start or create something, like a business, rule, or relationship. 
 
-**Example:** They established a new company last year. / The school was established in 1990.
+**Example:** They established a new company last year. 
+
+**Example:** The school was established in 1990.
 
 ## Drawback
 
@@ -1922,7 +1992,9 @@ A small, simple house, typically in the countryside.
 
 Separated. 
 
-**Example:** The label became detached from your parcel.(detached from) / Detached house prices are rising so fast that people can't afford detached houses.
+**Example:** The label became detached from your parcel.(detached from) 
+
+**Example:** Detached house prices are rising so fast that people can't afford detached houses.
 
 ## Label
 
@@ -1936,6 +2008,8 @@ An object or collection of objects wrapped in paper, especially so that it can b
 
 **Example:** The parcel was clearly labelled 'Fragile'.
 
+
+---
 ## Passage
 
 A usually long and narrow part of a building with rooms on one or both sides, or a covered path that connects places. 
@@ -1952,13 +2026,17 @@ To spread information to a lot of people.
 
 To let something or someone go free; to make something available. 
 
-**Example:** They released the bird back into the wild. / The singer released a new song yesterday.
+**Example:** They released the bird back into the wild. 
+
+**Example:** The singer released a new song yesterday.
 
 ## Improbable
 
 Not likely to happen or be true. 
 
-**Example:** It's highly improbable that Norris will agree. / Winning the lottery is improbable, but still possible.
+**Example:** It's highly improbable that Norris will agree. 
+
+**Example:** Winning the lottery is improbable, but still possible.
 
 ## Stuck with
 

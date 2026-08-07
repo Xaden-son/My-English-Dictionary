@@ -442,7 +442,9 @@ To form an opinion or guess that something is true because of the information th
 
 As a result; because of this. 
 
-**Example:** It was raining; thus, we stayed inside. / She studied hard, thus she passed the exam.
+**Example:** It was raining; thus, we stayed inside. 
+
+**Example:** She studied hard, thus she passed the exam.
 
 ## Hence
 
@@ -450,13 +452,13 @@ That is the reason or explanation for.
 
 **Example:** His mother was Italian, hence his name - Luca.
 
----
-
 ## Arrogantly
 
 In a proud and rude way; thinking you are better than others. 
 
-**Example:** He arrogantly refused to listen to anyone. / She arrogantly said she was always right.
+**Example:** He arrogantly refused to listen to anyone. 
+
+**Example:** She arrogantly said she was always right.
 
 ## Berate
 
@@ -512,6 +514,8 @@ To crush food into smaller, softer pieces with the teeth so that it can be swall
 
 **Example:** This meat is difficult to chew.
 
+----
+
 ## Obnoxious
 
 Very unpleasant or rude. 
@@ -565,11 +569,22 @@ Loyalty and love or care for someone or something.
 A situation in which a difficult choice has to be made between two different things you could do.
 
 **Example:** She faces the dilemma of disobeying her father or losing the man she loves.(face a dilemma)
+
+
 **Example:** She's in a dilemma because she feels she would lose out if she tried to transfer her pension fund elsewhere.(in a dilemma)
+
+
 **Example:** The president is clearly in a dilemma over how to tackle the crisis.(dilemma over)
+
+
 **Example:** There's a real dilemma about how to respond.(dilemma about)
+
+
 **Example:** Secrets often present a moral dilemma for adolescents.(moral dilemma)
+
+
 **Example:** True ethical dilemmas are complex and have no easy answers.(ethical dilemma)
+
 
 ## Adolescents
 
@@ -593,7 +608,9 @@ A lot of disagreement or argument about something, usually because it affects or
 
 The fact of something increasing a lot and suddenly in number or amount. 
 
-**Example:** The past two years have seen the proliferation of TV channels. / Nuclear weapons proliferation.
+**Example:** The past two years have seen the proliferation of TV channels. 
+
+**Example:** Nuclear weapons proliferation.
 
 ## Reciprocity(n)
 
@@ -655,6 +672,8 @@ The skill or act of saying or discovering what will happen in the future.
 
 **Example:** The old woman used cards for divination.
 
+----
+
 ## Haunt
 
 To cause repeated suffering or anxiety. 
@@ -695,9 +714,10 @@ To change, or to change something, to suit different conditions or uses.
 
 Including many different types of people or things. / Very different from each other. 
 
-**Example:** New York is a very culturally diverse city.(culturally diverse) / We hold very diverse views on the topic.
+**Example:** New York is a very culturally diverse city.(culturally diverse) 
 
----
+**Example:** We hold very diverse views on the topic.
+
 
 ## Evolve
 
@@ -711,11 +731,13 @@ Existing as a natural or basic part of something.
 
 **Example:** There are dangers / risks inherent in almost every sport.
 
+**Example:** I have an inherent distrust of lawyers.
+
 ## Migration
 
 The movement of people or animals from one place to another. 
 
-**Example:** Bird migration happens every year in autumn. / There was a big migration from villages to cities.
+**Example:** Bird migration happens every year in autumn. 
 
 ## Process
 
