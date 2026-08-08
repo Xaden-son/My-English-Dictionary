@@ -1110,7 +1110,7 @@ In a general way, without considering specific examples or all the details.
 
 -Many of the findings in this study are broadly similar to those of Johnes.(broadly similar)
 
-## Excavate
+## Excavate (kazı yapmak)
 
 To remove earth that is covering very old objects buried in the ground in order to discover things about the past. 
 
@@ -2762,7 +2762,7 @@ Familiar with somethig.
 
 ## Ease
 
-To move or to make something move slowly and carefully in a particular direction or into a particular position:. 
+To move or to make something move slowly and carefully in a particular direction or into a particular position. 
 
 **Example:** She eased the key into the lock, anxious not to wake anyone.(ease something into something)
 
@@ -3059,6 +3059,11 @@ The situation within which something exists or happens, and that can help explai
 
 **Example:** It is important to see all the fighting and bloodshed in his plays in historical context.
 
+## Iteraton
+
+The process of doing something again and again, usually to improve it, or one of the times you do it.
+
+**Example:** The repetition and iteration that goes on in designing something.
 
 
 

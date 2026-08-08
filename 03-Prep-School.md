@@ -2022,7 +2022,7 @@ To spread information to a lot of people.
 
 **Example:** I'm leaving but please don't broadcast the fact.
 
-## Release
+## Release 
 
 To let something or someone go free; to make something available. 
 
