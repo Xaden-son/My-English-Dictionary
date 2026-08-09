@@ -212,4 +212,97 @@ To go or come down.
 
 **Example:** The path descended steeply into the valley.
 
-## 
+## Pavement
+
+A path with a hard surface on one or both sides of a road, that people walk on.
+
+**Example:** Keep to the pavement, Rosie, there's a good girl.
+
+## Shorthand
+
+A system of fast writing that uses lines and simple signs to represent words and phrases.
+
+**Example:** Their conversations were taken down in shorthand by a secretary.(in shorthand)
+
+## Shorthand Typist
+
+Someone who types and does shorthand as the main part of their job.
+
+## Comb
+
+You can shape your hair with this item.
+
+**Example:** His hair looked as though it had never seen a comb and he himself could have done with a bath.
+
+## Rascal
+
+A person, especially a child or a man, who does things that you disapprove of, but who you still like.
+
+**Example:** I caught those little/young rascals dressing up in my clothes.
+
+## Disrupt
+
+To prevent something, especially a system, process, or event, from continuing as usual or as expected.
+
+**Example:** Everyday life in countries such as Sudan, Ethiopia, Eritrea, Somalia and Zaire is constantly disrupted. 
+
+## Aid
+
+A piece of equipment that helps you to do something
+
+**Example:** teaching aids, such as books and videos
+
+## Warring
+
+See at war.
+
+## Reunion
+
+A social event for a group of people who have not seen each other for a long time.
+
+**Example:** We're having a family reunion next week.
+
+**Example:** The college has an annual reunion for former students.
+
+## Flounder
+
+To experience great difficulties or be completely unable to decide what to do or say next.
+
+**Example:** He lost the next page of his speech and floundered around/about for a few seconds.
+
+## Enrich
+
+To improve the quality of something by adding something else.
+
+**Example:** My life was greatly enriched by knowing her.
+
+## Acquaintance
+
+A person that you have met but do not know well.
+
+**Example:** a business acquaintance
+
+## Precept
+
+A rule for action or behaviour, especially obtained from moral thought.
+
+**Example:** This policy goes against common precepts of decency.
+
+## Decency
+
+Behaviour that is good, moral, and acceptable in society.
+
+**Example:** She didn't even have the decency to apologize.
+
+## Nurture
+
+To take care of, feed, and protect someone or something, especially young children or plants, and help him, her, or it to develop.
+
+**Example:** She wants to stay at home and nurture her children.
+
+## Perception
+
+A belief or opinion, often held by many people and based on how things seem.
+
+**Example:** We have to change the public's perception that money is being wasted.
+

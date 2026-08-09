@@ -3065,5 +3065,8 @@ The process of doing something again and again, usually to improve it, or one of
 
 **Example:** The repetition and iteration that goes on in designing something.
 
+## Concrete
 
+A very hard building material made by mixing together cement, sand, small stones, and water.
 
+**Example:** reinforced concrete, a concrete floor/path, a grey concrete building
