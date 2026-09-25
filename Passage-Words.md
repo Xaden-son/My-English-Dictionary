@@ -306,3 +306,23 @@ A belief or opinion, often held by many people and based on how things seem.
 
 **Example:** We have to change the public's perception that money is being wasted.
 
+## Rover
+
+A person who spends their time travelling from place to place.
+
+**Example:**Their uncle was a rover, never settling for long in any one place.
+
+## Registry
+
+A place where official records are kept.
+
+**Example:**  a land/business/electoral registry
+
+## Aspire
+
+To want something very much or hope to achieve something or be successful.
+
+**Example:** Most of his students aspired to a career in business.(aspire to sth)
+
+
+

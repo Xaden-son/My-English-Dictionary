@@ -3069,4 +3069,29 @@ The process of doing something again and again, usually to improve it, or one of
 
 A very hard building material made by mixing together cement, sand, small stones, and water.
 
-**Example:** reinforced concrete, a concrete floor/path, a grey concrete building
+**Example:** Reinforced concrete, a concrete floor/path, a grey concrete building.
+
+## Recitation
+
+Saying a piece of writing aloud from memory.
+
+**Example:** He gave a beautiful recitation of some poems by Blake.
+
+## Integrity
+
+The quality of being honest and having strong moral principles.
+
+**Example:** He was a man of the highest personal integrity.
+
+## Append
+
+To add something to the end of a piece of writing.
+
+**Example:** The author appends a short footnote to the text explaining the point.
+
+## Mutter 
+
+To speak quietly and in a low voice that is not easy to hear, often when you are worried or complaining about something.
+
+**Example:** He was muttering to himself. (mutter to)
+**Example:** I could hear voices muttering away in the background.(mutter away)
