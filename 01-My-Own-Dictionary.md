@@ -2096,7 +2096,7 @@ A particular part of a written legal document, for example a law passed by Parli
 
 ## Redundant
 
-(especially of a word, phrase, etc.) Unnecessary because it is more than is needed. 
+(especially of a word, phrase, etc.) Unnecessary because it is more than is needed.
 
 **Example:** In the sentence "She is a single unmarried woman", the word "unmarried" is redundant.
 
@@ -3095,3 +3095,9 @@ To speak quietly and in a low voice that is not easy to hear, often when you are
 
 **Example:** He was muttering to himself. (mutter to)
 **Example:** I could hear voices muttering away in the background.(mutter away)
+
+## Contigious
+
+Next to or touching another, usually similar, thing.
+
+**Example:** The two states are contiguous with/to each other, but the laws are quite different.(contiguous with/to )
