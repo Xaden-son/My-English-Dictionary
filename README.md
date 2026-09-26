@@ -10,6 +10,17 @@
 - 🎯 Focus: General English, TOEFL, preparatory school vocabulary, and academic reading
 - 🔄 Updated regularly as I encounter new vocabulary
 
+<!-- WORD-COUNT:START -->
+**🔤 Total words: 1082**
+
+| Collection | Words |
+| --- | ---: |
+| [My Own Dictionary](./01-My-Own-Dictionary.md) | 536 |
+| [TOEFL Vocabulary](./02-TOEFL-Vocabulary.md) | 131 |
+| [Prep School](./03-Prep-School.md) | 362 |
+| [Passage Words](./04-Passage-Words.md) | 53 |
+<!-- WORD-COUNT:END -->
+
 ---
 
 I started keeping these vocabulary lists in 2024, before I began English preparatory school.
@@ -29,7 +40,7 @@ This is an ongoing collection and will continue to receive new vocabulary over t
 - [My Own Dictionary](./01-My-Own-Dictionary.md)
 - [TOEFL Vocabulary](./02-TOEFL-Vocabulary.md)
 - [Prep School Vocabulary](./03-Prep-School.md)
-- [Passage Words](./Passage-Words.md)
+- [Passage Words](./04-Passage-Words.md)
 
 ---
 
