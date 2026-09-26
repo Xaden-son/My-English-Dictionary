@@ -3101,3 +3101,13 @@ To speak quietly and in a low voice that is not easy to hear, often when you are
 Next to or touching another, usually similar, thing.
 
 **Example:** The two states are contiguous with/to each other, but the laws are quite different.(contiguous with/to )
+
+## Rugged
+
+If a man's face is rugged, it is strongly and attractively formed.
+
+**Example:** She fell for his rugged good looks.
+
+Strong and simple; not delicate.
+
+**Example:** Jeeps are rugged vehicles, designed for rough conditions.
