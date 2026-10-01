@@ -3181,3 +3181,23 @@ If you are possessive about something that you own, you do not like lending it t
 ## Thy
 
 Your: the possessive form of thou, used when speaking to one person.
+
+## Deviate
+
+To do something that is different from the usual or common way of behaving.
+
+**Example:** The recent pattern of weather deviates from the norm for this time of year.(devaite from)
+
+## Collision
+
+A strong disagreement.
+
+**Example:** There was a collision of interests/opinions.
+
+## Ahead of time
+
+Earlier than a particular moment.
+
+**Example:** Make the dish a few hours ahead of time to let the flavours develop.
+
+**Example:** She always planned our meals ahead of time.
