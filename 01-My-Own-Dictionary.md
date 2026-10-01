@@ -3111,3 +3111,73 @@ If a man's face is rugged, it is strongly and attractively formed.
 Strong and simple; not delicate.
 
 **Example:** Jeeps are rugged vehicles, designed for rough conditions.
+
+## Tuple
+
+A structure of data that has several parts.
+
+**Example:** Tuples are used to store multiple items in a single variable.
+
+## Cardinality
+
+The number of elements (= separate items) in a mathematical set.
+
+**Example:** Subsets with a small cardinality.
+
+## Maiden
+
+A girl or young woman.
+
+**Example:** In the story, the prince woos and wins the fair maiden.(fair maiden)
+
+## Crone
+
+An unpleasant or ugly old woman. / In stories, an old woman with magic powers.
+
+**Example:** Agatha Harkness.
+
+## Negation
+
+The exact opposite of something, or a complete lack of it.
+
+**Example:** She sees faith as a negation of reason.
+
+## Comprise
+
+To have things or people as parts or members; to consist of.
+
+**Example:** The course comprises a class book, a practice book, and a CD.
+
+## Ancestor
+
+A person related to you who lived a long time ago.
+
+**Example:** There were portraits of his ancestors on the walls of the room.
+
+## Constructor
+
+Someone who builds something or puts it together from different parts.
+
+**Example:** The firm produces kits for amateur car constructors.
+
+## Denote
+
+To represent something.
+
+**Example:** The colour red is used to denote passion or danger.
+
+## Spur
+
+To encourage an activity or development or make it happen faster.
+
+**Example:** Rising consumer sales have the effect of spurring the economy to faster growth.
+
+## Possessive
+
+If you are possessive about something that you own, you do not like lending it to other people or sharing it with other people.
+
+**Example:** He's pretty possessive about his iPod - I wouldn't dare ask to borrow it.
+
+## Thy
+
+Your: the possessive form of thou, used when speaking to one person.
