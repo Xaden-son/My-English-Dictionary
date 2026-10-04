@@ -3281,3 +3281,57 @@ To know about something before it happens.
 Happening after something else.
 
 **Example:** The book discusses his illness and subsequent resignation from politics.
+
+## Tip 
+
+To (cause to) move so that one side is higher than another side:
+
+**Example:** The table tipped, and all our drinks fell on the floor.
+
+## Moisture
+
+Very small drops of water, either in the air or on a surface.
+
+**Example:** It was a clear day with little moisture in the air.
+
+## Soaking
+
+Completely wet.
+
+**Example:** It's so hot outside - I've only been walking ten minutes and my shirt is soaking (wet)!
+
+## Strap
+
+A narrow piece of leather or other strong material used for fastening something or giving support.
+
+**Example:** Could you help me fasten this strap around my suitcase ?
+
+## Aide
+
+A person whose job is to help someone important, such as a member of a government or a military officer of high rank.
+
+**Example:** A senior government aide.
+
+## Retinue
+
+A group of people who travel with an important person to help them.
+
+**Example:** The president travels with a large retinue of aides and bodyguards.
+
+## Stride
+
+An important positive development.
+
+**Example:** The group has made strides to expand internationally.(make strides to)
+
+## Shrug
+
+To raise your shoulders and then lower them in order to say you do not know or are not interested.
+
+**Example:** He shrugged his shoulders as if to say that there was nothing he could do about it.
+
+## Embassy
+
+The group of people who officially represent their country in a foreign country, or the building they work in.
+
+**Example:** I’ll be working at the American embassy in Paris.
