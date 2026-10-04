@@ -2228,6 +2228,12 @@ Used to emphasize that you mean exactly what you are saying and nothing more.
 
 **Example:** I wasn't complaining, I merely said that I was tired.
 
+## Mere
+
+Used to emphasize that something is not large or important.
+
+**Example:** It cost a mere 20 dollars.
+
 ## Apprentice
 
 Someone who has agreed to work for a skilled person for a particular period of time and often for low payment, in order to learn that person's skills. 
@@ -3201,3 +3207,77 @@ Earlier than a particular moment.
 **Example:** Make the dish a few hours ahead of time to let the flavours develop.
 
 **Example:** She always planned our meals ahead of time.
+
+## Shrink
+
+To become smaller, or to make something smaller.
+
+**Example:** Your sweater will shrink if you wash it at too high a temperature.
+
+## Discrepancy
+
+A difference between two things that should be the same.
+
+**Example:** There is some discrepancy between the two accounts.(discrepancy between)
+
+## Concurrent 
+
+Happening or existing at the same time.
+
+**Example:** He dealt with several issues concurrently.
+
+## Abandoned
+
+Left in a particular place or condition, usually forever.
+
+**Example:** An abandoned baby was found in a box on the hospital steps.
+
+## Distinctive
+
+Something that is distinctive is easy to recognize because it is different from other things.
+
+**Example:** A distinctive smell/taste.
+
+**Example:** She's got a very distinctive voice.
+
+## Implicit
+
+Complete and without any doubts.
+
+**Example:** All her life she had implicit faith in socialism. (implicit faith)
+
+## Obedience
+
+The fact that people or animals do what they are told to do.
+
+**Example:** He demands unquestioning obedience from his soldiers.
+
+## Interoperate
+
+If two or more systems interoperate, each system is able to work when the other system is working.
+
+**Example:** We provide a mechanism that allows software applications in different languages to interoperate.
+
+## Ingenuity
+
+Someone's ability to think of clever new ways of doing something.
+
+**Example:** I was impressed by the ingenuity and energy of the contestants.
+
+## Contestant
+
+Someone who competes in a contest.
+
+**Example:** In tonight's quiz, our contestants have come from all over the country.
+
+## Foresee
+
+To know about something before it happens.
+
+**Example:** I don't foresee any difficulties so long as we keep within budget.
+
+## Subsequent
+
+Happening after something else.
+
+**Example:** The book discusses his illness and subsequent resignation from politics.
