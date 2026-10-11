@@ -3335,3 +3335,27 @@ To raise your shoulders and then lower them in order to say you do not know or a
 The group of people who officially represent their country in a foreign country, or the building they work in.
 
 **Example:** I’ll be working at the American embassy in Paris.
+
+## Depict
+
+To represent or show something in a picture or story.
+
+**Example:** Her paintings depict the lives of ordinary people in the last century.
+
+## Spouse
+
+A person's husband or wife.
+
+**Example:** In 60 percent of the households surveyed both spouses went out to work.
+
+## Derived
+
+Coming from or caused by something else.
+
+**Example:** derived products.
+
+## Conceptual
+
+Based on ideas or principles.
+
+**Example:** The main weakness of the proposal is conceptual.
