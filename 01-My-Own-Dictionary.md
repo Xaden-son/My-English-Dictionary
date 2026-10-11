@@ -3359,3 +3359,23 @@ Coming from or caused by something else.
 Based on ideas or principles.
 
 **Example:** The main weakness of the proposal is conceptual.
+
+## Miraculously
+
+In a way that is very surprising or difficult to believe.
+
+**Example:** Many claim to have been miraculously cured by the spring waters.
+
+## Adjacent
+
+Very near, next to, or touching.
+
+**Example:** They lived in a house adjacent to the railway. (adjacent to)
+
+**Example:**  They work in adjacent buildings.
+
+## Construct
+
+To build something or put together different parts to form something whole.
+
+**Example:** The walls are constructed of concrete. (be constructed of)
