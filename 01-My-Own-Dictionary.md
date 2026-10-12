@@ -3379,3 +3379,29 @@ Very near, next to, or touching.
 To build something or put together different parts to form something whole.
 
 **Example:** The walls are constructed of concrete. (be constructed of)
+
+## Distinct
+
+Clearly separate and different.
+
+**Example:** The two languages are quite distinct from each other.
+
+## Cumbersome
+
+Awkward because of being large, heavy, or not effective.
+
+**Example:** cumbersome equipment
+
+## Scavenger
+
+Someone who collects things that people have thrown away or left somewhere.
+
+**Example:** She earns her living as a scavenger at the city dump.
+
+**Example:** Then scavengers came and dug up the metals worth selling.
+
+## Inferior
+
+Not good, or not as good as someone or something else.
+
+**Example:** These products are inferior to those we bought last year.(inferior to)
