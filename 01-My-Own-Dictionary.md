@@ -3416,5 +3416,38 @@ Too ready to believe someone or something, or to trust that someone’s intentio
 
 In front.
 
-
 **Example:** Turn left at the traffic lights, and you'll see the hospital straight ahead.(straight ahead)
+
+## Fidelity
+
+The state of remaining loyal to someone and keeping the promises you made to that person.
+
+**Example:** He showed great fidelity to his promise, even when things got difficult.
+
+## Actuator
+
+Part of a machine or system that moves something or makes something work.
+
+**Example:** The actuators are powered by wires and controlled by three circuits connected to a power supply.
+
+## Provenance
+
+The place of origin of something.
+
+**Example:** This raised doubts about the provenance of the painting.
+
+## Idempotent
+
+An idempotent element of a set does not change in value when multiplied by itself.
+
+## Pruning
+
+The activity of reducing the number or amount of something.
+
+**Example:** A pruning of the product range and the 30 factories they currently own could produce massive savings.
+
+## Aggregation
+
+The process of combining things or amounts into a single group or total.
+
+**Example:** Some animals avoid being eaten by aggregation in groups, such as schools of fish.
