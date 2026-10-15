@@ -3405,3 +3405,16 @@ Someone who collects things that people have thrown away or left somewhere.
 Not good, or not as good as someone or something else.
 
 **Example:** These products are inferior to those we bought last year.(inferior to)
+
+## Naive
+
+Too ready to believe someone or something, or to trust that someone’s intentions are good, esp. because of a lack of experience.
+
+**Example:** It was naive of her to think that she would ever get her money back.
+
+## Ahead
+
+In front.
+
+
+**Example:** Turn left at the traffic lights, and you'll see the hospital straight ahead.(straight ahead)
