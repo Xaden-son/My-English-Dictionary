@@ -1870,6 +1870,12 @@ The act of becoming involved in a difficult situation to improve it or prevent i
 
 **Example:** The government's intervention was necessary to stabilize the economy.
 
+## Intervene
+
+To intentionally become involved in a difficult situation in order to improve it or prevent it from getting worse.
+
+**Example:** The Central Bank intervened in the currency markets today to try to stabilize the exchange rate.(intervened in)
+
 ## Associate
 
 To connect someone or something in your mind with someone or something else. 
@@ -3451,3 +3457,65 @@ The activity of reducing the number or amount of something.
 The process of combining things or amounts into a single group or total.
 
 **Example:** Some animals avoid being eaten by aggregation in groups, such as schools of fish.
+
+## Attenuation
+
+The process of making something less or weaker.
+
+**Example:** The drug plays a role in the attenuation of inflammation.
+
+## Inflamed
+
+(of a part of the body) red, painful, and swollen, especially because of infection.
+
+**Example:** An inflamed eye/toe.
+
+**Example:** You should call the doctor if the area around the wound becomes inflamed.
+
+## Latency
+
+The delay between an instruction to transfer (= move) computer information and the information being transferred, for example over the internet.
+
+**Example:** If there is high latency, messages can take minutes or longer to be delivered.
+
+## Semantic
+
+What something means.
+
+**Example:** Words are semantic units that convey meaning.
+
+## Convey
+
+To express a thought, feeling, or idea so that it is understood by other people.
+
+**Example:** Please convey our condolences to the family.(convey something to someone)
+
+## Devotion
+
+Loyalty and love or care for someone or something. 
+
+**Example:** He inspired respect and devotion from his pupils.
+
+## Condolence
+
+An expression of sympathy esp. for the family of a person who has recently died, or the sympathy expressed.
+
+**Example:** a letter of condolence.
+
+## Deterministic
+
+Believing that everything that happens must happen as it does and could not have happened any other way, or relating to this belief.
+
+**Example:** It would be overly deterministic to say that if the party did change its leader, the new one would continue to make the same mistakes.
+
+## Agglutinative
+
+An agglutinative language is a type of language that primarily forms words by stringing together morphemes (word parts)—each typically representing a single grammatical meaning—without significant modification to their forms.
+
+**Example:** This language is agglutinative, and combines morphemes to build words.
+
+## Morpheme
+
+The smallest unit of language that has its own meaning, either a word or a part of a word.
+
+**Example:** "Worker" contains two morphemes: "work" and "-er".

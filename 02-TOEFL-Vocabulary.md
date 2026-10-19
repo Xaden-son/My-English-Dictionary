@@ -558,12 +558,6 @@ Not simple and therefore difficult to understand.
 
 **Example:** The plot of the film was too involved - I couldn't understand it.
 
-## Devotion
-
-Loyalty and love or care for someone or something. 
-
-**Example:** He inspired respect and devotion from his pupils.
-
 ## Dilemma
 
 A situation in which a difficult choice has to be made between two different things you could do.
@@ -584,7 +578,6 @@ A situation in which a difficult choice has to be made between two different thi
 
 
 **Example:** True ethical dilemmas are complex and have no easy answers.(ethical dilemma)
-
 
 ## Adolescents
 
