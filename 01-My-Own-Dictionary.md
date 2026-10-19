@@ -3519,3 +3519,39 @@ An agglutinative language is a type of language that primarily forms words by st
 The smallest unit of language that has its own meaning, either a word or a part of a word.
 
 **Example:** "Worker" contains two morphemes: "work" and "-er".
+
+## Transmit
+
+To broadcast something, or to send out or carry signals or messages using radio, television, etc.
+
+**Example:** Radio Seven transmits on 201 medium wave (= uses those particular radio waves to broadcast on). (transmit on)
+
+## Transceiver
+
+A piece of equipment that can send out and receive electronic signals.
+
+**Example:** It has an infrared transceiver which can be used to exchange files with similarly equipped machines.
+
+## Infrared
+
+Infrared light is a type of light that feels warm but cannot be seen.
+
+**Example:** Their pilots are guided by an infrared optical system that shows images clearly even at night.
+
+## Emit
+
+To send out a beam, noise, smell, or gas.
+
+**Example:** The alarm emits infrared rays which are used to detect any intruder.
+
+## Intruder
+
+Someone who is in a place or situation where they are not wanted.
+
+**Example:** I feel like an intruder when I visit their home.
+
+Someone who enters a place without permission in order to commit a crime.
+
+**Example:** Intruders had entered the house through a back window.
+
+## 
