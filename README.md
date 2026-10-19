@@ -11,11 +11,11 @@
 - 🔄 Updated regularly as I encounter new vocabulary
 
 <!-- WORD-COUNT:START -->
-**🔤 Total words: 1143**
+**🔤 Total words: 1149**
 
 | Collection | Words |
 | --- | ---: |
-| [My Own Dictionary](./01-My-Own-Dictionary.md) | 598 |
+| [My Own Dictionary](./01-My-Own-Dictionary.md) | 604 |
 | [TOEFL Vocabulary](./02-TOEFL-Vocabulary.md) | 130 |
 | [Prep School](./03-Prep-School.md) | 362 |
 | [Passage Words](./04-Passage-Words.md) | 53 |
