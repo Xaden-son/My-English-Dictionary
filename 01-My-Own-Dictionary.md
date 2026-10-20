@@ -3592,3 +3592,8 @@ Behaviour, especially a child's, that is slightly bad but is not intended to cau
 
 **Example:** Maybe a new bike would keep him out of mischief.
 
+## Splice 
+
+To join two pieces of rope, film, etc. together at their ends in order to form one long piece.
+
+**Example:** Scientists have discovered how to splice pieces of DNA.
