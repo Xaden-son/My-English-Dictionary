@@ -3554,4 +3554,41 @@ Someone who enters a place without permission in order to commit a crime.
 
 **Example:** Intruders had entered the house through a back window.
 
-## 
+## Plead
+
+To make an urgent, emotional statement or request for something.
+
+**Example:** He was on his knees, pleading for mercy/forgiveness. (plead for)
+
+## Forte
+
+A strong ability, something that a person can do well.
+
+**Example:** Cooking was not exactly her forte.
+
+## Formidable
+
+Causing you to have fear or respect for something or someone because that thing or person is large, powerful, or difficult.
+
+**Example:** a formidable adversary/enemy/opponent.
+
+## Fugitive
+
+A person who is running away or hiding from the police or a dangerous situation.
+
+**Example:** Thousands of fugitives are fleeing from the war-torn area.
+
+## Flee 
+
+To escape by running away, especially because of danger or fear.
+
+**Example:** She fled from the room in tears.(flee from)
+
+## Mischief
+
+Behaviour, especially a child's, that is slightly bad but is not intended to cause serious harm or damage.
+
+**Example:** She's a lively little girl, full of mischief.
+
+**Example:** Maybe a new bike would keep him out of mischief.
+
