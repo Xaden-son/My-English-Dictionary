@@ -3597,3 +3597,17 @@ Behaviour, especially a child's, that is slightly bad but is not intended to cau
 To join two pieces of rope, film, etc. together at their ends in order to form one long piece.
 
 **Example:** Scientists have discovered how to splice pieces of DNA.
+
+## Elide
+
+To join different things together as if they are the same; to become joined in this way.
+
+**Example:** For some people, "classy" and "classic" have become elided.
+
+**Example:** One character elides into another because they all speak with the same infuriating voice.(elide into)
+
+## Infuriating
+
+Extremely annoying.
+
+**Example:** It's infuriating when people keep spelling your name wrong, isn't it?
