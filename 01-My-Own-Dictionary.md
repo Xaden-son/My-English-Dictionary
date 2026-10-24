@@ -3611,3 +3611,31 @@ To join different things together as if they are the same; to become joined in t
 Extremely annoying.
 
 **Example:** It's infuriating when people keep spelling your name wrong, isn't it?
+
+## Eon
+
+A period of time that is so long that it cannot be measured.
+
+**Example:** Scientists guessed that this might be a volcanic rock that had remained unaltered for eons.
+
+## Unaltered
+
+That has stayed the same or not been changed
+
+**Example:** The museum has remained unaltered for a very long time.
+
+## Fib
+
+To tell a small lie that does not cause any harm.
+
+**Example:** I can tell he's fibbing because he's smiling!
+
+## Nerve
+
+A group of long, thin fibres (= structures like threads) that carry information or instructions between the brain and other parts of the body.
+
+**Example:** Some conditions, such as diabetes, can cause nerve damage.
+
+The courage or confidence necessary to do something difficult, unpleasant, or rude.
+
+**Example:** It takes a lot of nerve to be a bomb disposal expert. 
